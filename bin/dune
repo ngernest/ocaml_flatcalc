@@ -1,0 +1,4 @@
+(executable
+ (public_name mica_flatcalc)
+ (name main)
+ (libraries mica_flatcalc))
