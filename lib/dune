@@ -1,5 +1,5 @@
 (library
- (name mica_flatcalc)
+ (name flatcalc)
  (libraries base base_quickcheck)
  (preprocess
   (pps ppx_jane)))
